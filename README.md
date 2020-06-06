@@ -6,6 +6,8 @@
 
 <p>Project developed for learning Flutter without the use of design patterns.</p>
 
+<h2>App BMI Calculator</h2>
+
 ![Alt text](https://github.com/eliziariodm/gifs_and_images/blob/master/bmi_calculator.gif?raw=true "App BMI Calculator")
 
 <h2>References</h2>
