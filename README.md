@@ -1,16 +1,13 @@
 # bmi_calculator
 
-A new Flutter project.
+<h1>BMI calculator app project made with the Flutter framework.</h1>
 
-## Getting Started
+<p>The body mass index (BMI) is an international measure used to calculate whether a person is at ideal weight. Developed by the polymath Lambert Quételet at the end of the 19th century, it is an easy and quick method for assessing the level of fat in each person, and is therefore an international predictor of obesity adopted by the World Health Organization (WHO).<p>
+  
+<h2>Motivation</h2>
 
-This project is a starting point for a Flutter application.
+<p>Project developed for learning Flutter without the use of design patterns.</p>
 
-A few resources to get you started if this is your first Flutter project:
+<h2>References</h2>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<a>https://pt.wikipedia.org/wiki/%C3%8Dndice_de_massa_corporal</a>
