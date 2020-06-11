@@ -12,4 +12,4 @@
 
 <h2>References</h2>
 
-<a>https://pt.wikipedia.org/wiki/%C3%8Dndice_de_massa_corporal</a>
+<a href="https://pt.wikipedia.org/wiki/%C3%8Dndice_de_massa_corporal"> Índice Corporal</a>
